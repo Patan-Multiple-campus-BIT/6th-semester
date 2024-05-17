@@ -10,22 +10,27 @@ namespace Unit1_Reamaining
 {
     interface Ilogger
     {
-        void Log();
+        void Log(string message);
     }
     class FileLogger : Ilogger
     {
-        public void Log()
+        public void Log(string message)
         {
-            string writetext = "Hello World";
-            File.WriteAllText("Newfile.txt", writetext);
+            File.WriteAllText("Newfile.txt", message);
+            Console.WriteLine("Log message is written into the file sucessfully.");
         }
     }
     class question12
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Black;
             FileLogger fl = new FileLogger();
-            fl.Log();
+            Console.Write("Enter the message: ");
+            string message = Console.ReadLine();
+            fl.Log(message);
             Console.ReadKey();
         }
     }

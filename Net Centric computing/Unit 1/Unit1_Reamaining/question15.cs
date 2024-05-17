@@ -54,7 +54,7 @@ namespace Unit1_Reamaining
                 Console.BackgroundColor = ConsoleColor.White;
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Black;
-                Console.WriteLine("Int stack:");3
+                Console.WriteLine("Int stack:");
                 Stack<int> stack1 = new Stack<int>(2);
                 stack1.push(1);
                 stack1.push(2);
