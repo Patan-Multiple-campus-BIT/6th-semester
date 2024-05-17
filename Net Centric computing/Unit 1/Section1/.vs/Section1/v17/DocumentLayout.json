@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09DC0B20-57EF-4FFC-BD27-D632D04F96D5}|Section1.csproj|e:\\college\\classroom\\6th semester\\.net\\keshab aryal\\practicals\\section1\\generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DC0B20-57EF-4FFC-BD27-D632D04F96D5}|Section1.csproj|solutionrelative:generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DC0B20-57EF-4FFC-BD27-D632D04F96D5}|Section1.csproj|e:\\college\\classroom\\6th semester\\.net\\keshab aryal\\practicals\\section1\\section1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{09DC0B20-57EF-4FFC-BD27-D632D04F96D5}|Section1.csproj|solutionrelative:section1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DC0B20-57EF-4FFC-BD27-D632D04F96D5}|Section1.csproj|e:\\college\\classroom\\6th semester\\.net\\keshab aryal\\practicals\\section1\\exceptiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DC0B20-57EF-4FFC-BD27-D632D04F96D5}|Section1.csproj|solutionrelative:exceptiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DC0B20-57EF-4FFC-BD27-D632D04F96D5}|Section1.csproj|e:\\college\\classroom\\6th semester\\.net\\keshab aryal\\practicals\\section1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DC0B20-57EF-4FFC-BD27-D632D04F96D5}|Section1.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "generics.cs",
+              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section1\\generics.cs",
+              "RelativeDocumentMoniker": "generics.cs",
+              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section1\\generics.cs",
+              "RelativeToolTip": "generics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:26:54.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exceptiondemo.cs",
+              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section1\\exceptiondemo.cs",
+              "RelativeDocumentMoniker": "exceptiondemo.cs",
+              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section1\\exceptiondemo.cs",
+              "RelativeToolTip": "exceptiondemo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:16:51.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Section1",
+              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section1\\Section1.csproj",
+              "RelativeDocumentMoniker": "Section1.csproj",
+              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section1\\Section1.csproj",
+              "RelativeToolTip": "Section1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T04:55:54.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section1\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section1\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:52:07.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

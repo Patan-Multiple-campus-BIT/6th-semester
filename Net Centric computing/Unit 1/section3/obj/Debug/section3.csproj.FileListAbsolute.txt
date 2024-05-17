@@ -1,0 +1,7 @@
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\section3\obj\Debug\section3.csproj.AssemblyReference.cache
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\section3\obj\Debug\section3.csproj.CoreCompileInputs.cache
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\section3\bin\Debug\section3.exe.config
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\section3\bin\Debug\section3.exe
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\section3\bin\Debug\section3.pdb
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\section3\obj\Debug\section3.exe
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\section3\obj\Debug\section3.pdb

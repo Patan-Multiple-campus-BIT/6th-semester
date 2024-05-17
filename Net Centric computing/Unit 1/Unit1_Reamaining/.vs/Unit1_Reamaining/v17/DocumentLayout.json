@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Unit1_Reamaining\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{324ED217-9F5C-49AD-883F-E9438A2FC8E3}|Unit1_Reamaining.csproj|e:\\college\\classroom\\6th semester\\.net\\keshab aryal\\practicals\\unit1_reamaining\\question15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324ED217-9F5C-49AD-883F-E9438A2FC8E3}|Unit1_Reamaining.csproj|solutionrelative:question15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Unit1_Reamaining||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324ED217-9F5C-49AD-883F-E9438A2FC8E3}|Unit1_Reamaining.csproj|E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Unit1_Reamaining\\question17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324ED217-9F5C-49AD-883F-E9438A2FC8E3}|Unit1_Reamaining.csproj|solutionrelative:question17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324ED217-9F5C-49AD-883F-E9438A2FC8E3}|Unit1_Reamaining.csproj|E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Unit1_Reamaining\\question18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324ED217-9F5C-49AD-883F-E9438A2FC8E3}|Unit1_Reamaining.csproj|solutionrelative:question18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324ED217-9F5C-49AD-883F-E9438A2FC8E3}|Unit1_Reamaining.csproj|e:\\college\\classroom\\6th semester\\.net\\keshab aryal\\practicals\\unit1_reamaining\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "question15.cs",
+              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Unit1_Reamaining\\question15.cs",
+              "RelativeDocumentMoniker": "question15.cs",
+              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Unit1_Reamaining\\question15.cs",
+              "RelativeToolTip": "question15.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwD0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:33:19.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "question18.cs",
+              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Unit1_Reamaining\\question18.cs",
+              "RelativeDocumentMoniker": "question18.cs",
+              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Unit1_Reamaining\\question18.cs",
+              "RelativeToolTip": "question18.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:51:13.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unit1_Reamaining",
+              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Unit1_Reamaining\\Unit1_Reamaining.csproj",
+              "RelativeDocumentMoniker": "Unit1_Reamaining.csproj",
+              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Unit1_Reamaining\\Unit1_Reamaining.csproj",
+              "RelativeToolTip": "Unit1_Reamaining.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T05:17:16.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "question17.cs",
+              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Unit1_Reamaining\\question17.cs",
+              "RelativeDocumentMoniker": "question17.cs",
+              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Unit1_Reamaining\\question17.cs",
+              "RelativeToolTip": "question17.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:04:19.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

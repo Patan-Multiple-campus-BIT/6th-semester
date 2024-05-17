@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01CE8C0C-F4BA-49D9-8B92-A7927144F9B5}|Section2.csproj|E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\question7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CE8C0C-F4BA-49D9-8B92-A7927144F9B5}|Section2.csproj|solutionrelative:question7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CE8C0C-F4BA-49D9-8B92-A7927144F9B5}|Section2.csproj|E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CE8C0C-F4BA-49D9-8B92-A7927144F9B5}|Section2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Section2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CE8C0C-F4BA-49D9-8B92-A7927144F9B5}|Section2.csproj|E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\question5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CE8C0C-F4BA-49D9-8B92-A7927144F9B5}|Section2.csproj|solutionrelative:question5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CE8C0C-F4BA-49D9-8B92-A7927144F9B5}|Section2.csproj|E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\question6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CE8C0C-F4BA-49D9-8B92-A7927144F9B5}|Section2.csproj|solutionrelative:question6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CE8C0C-F4BA-49D9-8B92-A7927144F9B5}|Section2.csproj|E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\question4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CE8C0C-F4BA-49D9-8B92-A7927144F9B5}|Section2.csproj|solutionrelative:question4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CE8C0C-F4BA-49D9-8B92-A7927144F9B5}|Section2.csproj|e:\\college\\classroom\\6th semester\\.net\\keshab aryal\\practicals\\section2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:58:42.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Section2",
+              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\Section2.csproj",
+              "RelativeDocumentMoniker": "Section2.csproj",
+              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\Section2.csproj",
+              "RelativeToolTip": "Section2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-10T14:36:14.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "question7.cs",
+              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\question7.cs",
+              "RelativeDocumentMoniker": "question7.cs",
+              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\question7.cs",
+              "RelativeToolTip": "question7.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAswF4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:36:41.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "question6.cs",
+              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\question6.cs",
+              "RelativeDocumentMoniker": "question6.cs",
+              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\question6.cs",
+              "RelativeToolTip": "question6.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:02:20.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "question5.cs",
+              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\question5.cs",
+              "RelativeDocumentMoniker": "question5.cs",
+              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\question5.cs",
+              "RelativeToolTip": "question5.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:39:27.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "question4.cs",
+              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\question4.cs",
+              "RelativeDocumentMoniker": "question4.cs",
+              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\.net\\Keshab Aryal\\Practicals\\Section2\\question4.cs",
+              "RelativeToolTip": "question4.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:01:44.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

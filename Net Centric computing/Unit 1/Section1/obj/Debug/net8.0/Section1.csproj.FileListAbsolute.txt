@@ -1,0 +1,14 @@
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Section1\bin\Debug\net8.0\Section1.exe
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Section1\bin\Debug\net8.0\Section1.deps.json
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Section1\bin\Debug\net8.0\Section1.runtimeconfig.json
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Section1\bin\Debug\net8.0\Section1.dll
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Section1\bin\Debug\net8.0\Section1.pdb
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Section1\obj\Debug\net8.0\Section1.GeneratedMSBuildEditorConfig.editorconfig
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Section1\obj\Debug\net8.0\Section1.AssemblyInfoInputs.cache
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Section1\obj\Debug\net8.0\Section1.AssemblyInfo.cs
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Section1\obj\Debug\net8.0\Section1.csproj.CoreCompileInputs.cache
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Section1\obj\Debug\net8.0\Section1.dll
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Section1\obj\Debug\net8.0\refint\Section1.dll
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Section1\obj\Debug\net8.0\Section1.pdb
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Section1\obj\Debug\net8.0\Section1.genruntimeconfig.cache
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Section1\obj\Debug\net8.0\ref\Section1.dll

@@ -1,0 +1,7 @@
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Unit1_Reamaining\bin\Debug\Unit1_Reamaining.exe.config
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Unit1_Reamaining\bin\Debug\Unit1_Reamaining.exe
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Unit1_Reamaining\bin\Debug\Unit1_Reamaining.pdb
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Unit1_Reamaining\obj\Debug\Unit1_Reamaining.csproj.AssemblyReference.cache
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Unit1_Reamaining\obj\Debug\Unit1_Reamaining.csproj.CoreCompileInputs.cache
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Unit1_Reamaining\obj\Debug\Unit1_Reamaining.exe
+E:\College\ClassRoom\6th semester\.net\Keshab Aryal\Practicals\Unit1_Reamaining\obj\Debug\Unit1_Reamaining.pdb
