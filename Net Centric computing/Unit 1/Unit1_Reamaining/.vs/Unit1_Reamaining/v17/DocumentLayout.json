@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "E:\\College\\ClassRoom\\6th semester\\Practicals in github\\6th-semester\\Net Centric computing\\Unit 1\\Unit1_Reamaining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{324ED217-9F5C-49AD-883F-E9438A2FC8E3}|Unit1_Reamaining.csproj|E:\\College\\ClassRoom\\6th semester\\Practicals in github\\6th-semester\\Net Centric computing\\Unit 1\\Unit1_Reamaining\\question12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{324ED217-9F5C-49AD-883F-E9438A2FC8E3}|Unit1_Reamaining.csproj|e:\\college\\classroom\\6th semester\\practicals in github\\6th-semester\\net centric computing\\unit 1\\unit1_reamaining\\question12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{324ED217-9F5C-49AD-883F-E9438A2FC8E3}|Unit1_Reamaining.csproj|solutionrelative:question12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -24,9 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{324ED217-9F5C-49AD-883F-E9438A2FC8E3}|Unit1_Reamaining.csproj|E:\\College\\ClassRoom\\6th semester\\Practicals in github\\6th-semester\\Net Centric computing\\Unit 1\\Unit1_Reamaining\\question17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{324ED217-9F5C-49AD-883F-E9438A2FC8E3}|Unit1_Reamaining.csproj|solutionrelative:question17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{324ED217-9F5C-49AD-883F-E9438A2FC8E3}|Unit1_Reamaining.csproj|e:\\college\\classroom\\6th semester\\practicals in github\\6th-semester\\net centric computing\\unit 1\\unit1_reamaining\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,11 +33,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "question12.cs",
+              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\Practicals in github\\6th-semester\\Net Centric computing\\Unit 1\\Unit1_Reamaining\\question12.cs",
+              "RelativeDocumentMoniker": "question12.cs",
+              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\Practicals in github\\6th-semester\\Net Centric computing\\Unit 1\\Unit1_Reamaining\\question12.cs",
+              "RelativeToolTip": "question12.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:36:21.613Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -51,8 +61,7 @@
               "ToolTip": "E:\\College\\ClassRoom\\6th semester\\Practicals in github\\6th-semester\\Net Centric computing\\Unit 1\\Unit1_Reamaining\\Unit1_Reamaining.csproj",
               "RelativeToolTip": "Unit1_Reamaining.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-15T05:17:16.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T05:17:16.71Z"
             },
             {
               "$type": "Document",
@@ -65,19 +74,6 @@
               "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T09:44:24.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "question12.cs",
-              "DocumentMoniker": "E:\\College\\ClassRoom\\6th semester\\Practicals in github\\6th-semester\\Net Centric computing\\Unit 1\\Unit1_Reamaining\\question12.cs",
-              "RelativeDocumentMoniker": "question12.cs",
-              "ToolTip": "E:\\College\\ClassRoom\\6th semester\\Practicals in github\\6th-semester\\Net Centric computing\\Unit 1\\Unit1_Reamaining\\question12.cs",
-              "RelativeToolTip": "question12.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAkwBwAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T09:36:21.613Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
